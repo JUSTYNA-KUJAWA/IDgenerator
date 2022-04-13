@@ -1,0 +1,8 @@
+{
+  "name": "@kujawajustyna/id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:JustynaKujawa/IDgenerator.git",
+  "author": "Justyna Kujawa"
+}
